@@ -10,8 +10,8 @@ This is a site of a company that show case the project done by individuals progr
 ## Technologies Used
 *HTML
 *CSS
-*Jquerygit
-{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
+*Jquery
+
 ### License
 MIT License
 
