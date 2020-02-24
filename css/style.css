@@ -1,5 +1,5 @@
 .landing{
-  background-image: url(".image/background/h_img.jpg");
+  background-image: url("image/background/h_img.jpg");
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -42,7 +42,7 @@
   }
   .services{
     text-align: center;
-    background-image: url("./image/background/s_image.jpg");
+    background-image: url("/image/background/s_image.jpg");
     color: white;
     background-position: center;
     background-size: cover;
@@ -85,7 +85,7 @@
     font-family: 'Gabriela', serif;
   }
   .contact{
-    background-image: url('./image/background/c_image.jpg');
+    background-image: url('/image/background/c_image.jpg');
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
